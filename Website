@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Beau </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="main.css" rel="stylesheet">
+</head>
+
+<br>
+
+<article>
+<h1>Beau is a Very Good Boy</h1>
+</article>
+
+
+</head>
+<body>
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn">
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+    </div>
+  </div>
+</div>
+
+</body>
+
+<body>
+<h2>Info</h2>
+<h3>Beau is my dog. Beau is the cutest dog Ever. Here are some pictures of Beau. In french, the word beau means handsome. Beau is a very handsome boy.</h3>
+
+</body>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" href="main.css">
+<style>
+.mySlides {display:none;}
+</style>
+</head>
+
+<body>
+
+<h2 class="w3-center">LOVE HIM</h2>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="IMG_0110.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_9317.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_9318.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_9319.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_9320.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_8403.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_8748.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_8893.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_8894.jpg" style="width:100%">
+  <img class="mySlides" src="IMG_8989.jpg" style="width:100%">
+
+</div>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}
+    x[myIndex-1].style.display = "block";
+    setTimeout(carousel, 2000);
+}
+</script>
+</body>
+
+<body>
+  <h2> Beau's Past </h2>
+   <h3> Beau was found wandering around my parents friends yard. They decided that they did not like beau (big mistake) and asked if we wanted him. We said yes and he has been with us for 3 years. </h3>
+
+  <h2> About Beau </h3>
+    <h3> Beau likes to play, he plays with lots of stuffed toys because they are his favorite. Beau also likes toys that squeek. Beau spends lots of time outside during the summer but hates the winter. Beau loves all kinds of food, especially cheese. Beau also loves to go on walks and going to the park. Sometimes ehe gets too nosy and tears into peoples bags for food but he always feels bad after. Beau is a very loud, but it's how he shows his love! He barks when he's excited and can't ever keep it in, he just has to show everyone how happy he is! Beau can also be very lazy. He spends lots of time sleeping too because he is very hyper when he's awake and ends up tiring himself out. If you get tired and sit down, he will sit and cuddle next to you the entire time. </h3>
+
+    <br>
+
+    <h3> Don't be shy around him because he loves everyone so much! He loves attention and being pet and has never bit anyone!  </h3>
+
+    <br>
